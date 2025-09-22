@@ -39,3 +39,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Leo-elacosta/Leo-elacosta/output/snake.svg" alt="Snake animation" />
+
+###
