@@ -37,9 +37,3 @@
   <img src="https://streak-stats.demolab.com?user=Leo-elacosta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-elacosta&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Leo-elacosta/Leo-elacosta/output/snake.yml" alt="Snake animation" />
-
-###
